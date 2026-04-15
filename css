@@ -1,0 +1,13 @@
+body {
+  margin: 0
+  overflow: hidden;
+  background: #000;
+  touch-action: manipulation;
+}
+
+{
+  width: 100vw;
+  height: 10vh;
+  position: relative;
+}
+
